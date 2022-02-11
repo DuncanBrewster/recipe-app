@@ -10,7 +10,8 @@ export const Title = styled.h1`
 `;
 
 export const AppSearchForm = styled.form`
-    margin-top: 18px;
+    margin-top: 20px;
+    margin-bottom: 30px;
 `;
 
 export const Input = styled.input`
