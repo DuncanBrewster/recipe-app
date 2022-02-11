@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/87501964/153520639-8cd7d801-5ddd-4fc2-b5de-446d37a71ebf.png)
 
-# [Recipe Finder App](duncan-recipe-app.netlify.app)
+# [Recipe Finder App](https://duncan-recipe-app.netlify.app)
 
 Recipe Finder is a React application that allows users to search the [Edamam database](https://www.edamam.com/) for recipes. This project is currently hosted on [Netlify](duncan-recipe-app.netlify.app).
 
@@ -51,4 +51,4 @@ This project:
 * uses **React Router** for client side routing.
 * uses the **Axios API** for database queries.
 * is styled with **Styled Components**.
-* [is hosted here on **Netlify**](duncan-recipe-app.netlify.app).
+* [is hosted here on **Netlify**](https://duncan-recipe-app.netlify.app).
