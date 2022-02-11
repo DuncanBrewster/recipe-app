@@ -48,7 +48,6 @@ npm start
 This project:
 
 * was built with **React**.
-* uses **React Router** for client side routing.
 * uses **Axios** to fetch data from the Edamam API.
 * is styled with **Styled Components**.
 * [is hosted here on **Netlify**](https://duncan-recipe-app.netlify.app/).
