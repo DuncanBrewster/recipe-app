@@ -2,7 +2,7 @@
 
 # [Recipe Finder App](https://duncan-recipe-app.netlify.app/)
 
-Recipe Finder is a React application that allows users to search the [Edamam database](https://www.edamam.com/) for recipes. This project is currently hosted on [Netlify](duncan-recipe-app.netlify.app).
+Recipe Finder is a React application that allows users to search the [Edamam database](https://www.edamam.com/) for recipes. This project is currently hosted on [Netlify](https://duncan-recipe-app.netlify.app/).
 
 ## Features
 * Displays up to 20 recipes with each search query
