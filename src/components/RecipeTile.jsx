@@ -49,13 +49,15 @@ const TileImg = styled.img`
 
 export function RecipeTile({recipe}) {
   return (
-    recipe["recipe"]["image"].match(/\.(jpeg|jpg|gif|png)$/) != null && (
+    <li key={recipe.id} style={{listStyleType: "none"}}>
+    {/* recipe["recipe"]["image"].match(/\.(jpeg|jpg|gif|png)$/) != null && ( */}
     <Tile onClick={() => {
       window.open(recipe["recipe"]["url"]);
     }}>
         <TileImg src={recipe["recipe"]["image"]} />
         <TileName>{recipe["recipe"]["label"]}</TileName>
     </Tile>
-    )
+    {/* ) */}
+    </li>
   );
 }
